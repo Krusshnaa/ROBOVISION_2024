@@ -1,2 +1,0 @@
-omni_gazebo:our_project
--DCATKIN_DEVEL_PREFIX=/home/krushna/ROBOVISION_2024/devel -DCMAKE_INSTALL_PREFIX=/home/krushna/ROBOVISION_2024/install -G Unix Makefiles
