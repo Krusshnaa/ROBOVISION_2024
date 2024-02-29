@@ -1,8 +1,0 @@
-prefix=/home/krushna/ROBOVISION_2024/devel
-
-Name: our_project
-Description: Description of our_project
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
